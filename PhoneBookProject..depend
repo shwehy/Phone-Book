@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1545865798 source:/Users/MahmoudElkarargy/Desktop/PhoneBookProject./main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Phonebook.h"
+	"Utilities.h"
+
+1545865368 /Users/MahmoudElkarargy/Desktop/PhoneBookProject./Phonebook.h
+
+1545865470 /Users/MahmoudElkarargy/Desktop/PhoneBookProject./Utilities.h
+
+1545867895 source:/Users/MahmoudElkarargy/Desktop/PhoneBookProject./Phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Utilities.h"
+
+1545867789 source:/Users/MahmoudElkarargy/Desktop/PhoneBookProject./Utilities.c
+
+1545832232 source:d:\downloads\phonebookproject.-20190508t025817z-001\phonebookproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Phonebook.h"
+	"Utilities.h"
+
+1545832232 d:\downloads\phonebookproject.-20190508t025817z-001\phonebookproject\phonebook.h
+
+1545832232 d:\downloads\phonebookproject.-20190508t025817z-001\phonebookproject\utilities.h
+
+1557284493 source:d:\downloads\phonebookproject.-20190508t025817z-001\phonebookproject\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Utilities.h"
+
+1545832232 source:d:\downloads\phonebookproject.-20190508t025817z-001\phonebookproject\utilities.c
+
